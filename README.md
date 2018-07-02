@@ -18,7 +18,7 @@ Activate the module
 Activate the module in Design / Account
 
 
-Marketplace link : https://www.clicshopping.net/forum/files/file/18-apps_configuration_shipping_status_tracking/
+Marketplace link : https://www.clicshopping.org/forum/files/file/18-apps_configuration_shipping_status_tracking/
 
 ![shippingtracking](https://github.com/ClicShoppingOfficialModulesV3/apps_configuration_shipping_status_tracking/blob/master/ModuleInfosJson/shipping_tracking.png)
 
